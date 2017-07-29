@@ -1,0 +1,99 @@
+<!-- Display tabs to select tennis patterns and play description -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:paddingLeft="5dp"
+	android:paddingRight="5dp"
+	tools:context=".GrandSlamTennis">
+    
+    <!--  add tennis patterns scrollable tab -->
+	<TabHost android:layout_weight="1" 
+	    android:id="@+id/tabHost"
+    	android:layout_width="match_parent" 
+    	android:layout_height="0dip">
+    
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:orientation="vertical">
+        <HorizontalScrollView android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <LinearLayout android:layout_height="match_parent"
+                android:orientation="horizontal" 
+                android:layout_width="wrap_content">
+                <TabWidget android:layout_height="wrap_content"
+                    android:id="@android:id/tabs" 
+                    android:isScrollContainer="true"
+                    android:layout_width="match_parent" 
+                    android:scrollbars="horizontal">
+                </TabWidget>
+            </LinearLayout>
+        </HorizontalScrollView>
+        <FrameLayout android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            android:id="@android:id/tabcontent">
+            <LinearLayout android:layout_width="match_parent"
+                android:layout_height="match_parent" 
+                android:id="@+id/tabPattern">
+              
+		         <LinearLayout 
+				   android:id="@+id/linearLayout" android:orientation="vertical" 
+				   android:layout_width="match_parent" 
+				   android:layout_height="match_parent" 
+				   android:gravity="center_horizontal" 
+				   android:background="@color/background_color">
+				
+				  	<!-- add tennis play name and description -->
+		             <EditText
+		                 android:id="@+id/playNameEditText"
+		                 style="@style/PlayEditText"
+		                 android:text="@string/play_name">
+		             </EditText>
+				   
+				   <EditText 
+				       android:id="@+id/playDescEditText"
+				       style="@style/PlayEditText"
+				       android:text="@string/play_desc">
+				   </EditText>
+				       
+				   <!-- add image view of tennis play -->
+				   <ImageView android:id="@+id/playImageView"
+				      android:adjustViewBounds="false" 
+				      android:layout_width="@dimen/image_width"
+				      android:layout_height="@dimen/image_height">
+				   </ImageView>
+				   
+				   <!-- add button to allow user to nagvigate to previous or next play -->
+				  <LinearLayout 
+				       android:layout_width="match_parent"
+				       android:layout_height="wrap_content"
+				       android:orientation="horizontal"
+				       android:paddingTop="10dp"
+				       android:background="@color/background_color">
+				       
+				       <Button
+				           android:id="@+id/previousButton"
+				           android:layout_width="wrap_content"
+				           android:layout_height="wrap_content"
+				           android:layout_weight="1"
+				           android:text="@string/previous" >
+				       </Button>
+				  	   
+				       <Button android:id="@+id/nextButton" 
+				            android:layout_weight="1"
+				            android:text="@string/next"
+				   			android:layout_width="wrap_content" 
+				  			android:layout_height="wrap_content">
+				       </Button>
+				   </LinearLayout>    
+				         
+				</LinearLayout>
+            </LinearLayout>
+            
+        </FrameLayout>
+        
+    </LinearLayout>
+	</TabHost>
+
+</LinearLayout>

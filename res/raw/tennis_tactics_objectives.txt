@@ -1,0 +1,59 @@
+P01-Hit the second shot (groundstroke) to the open court for a winner or an approach shot.
+P02-Hit the second shot (groundstroke) to the open court for a winner or an approach shot.
+P03-Hit the second shot (groundstroke) down the line or to your opponent's weaker side.
+P04-Hit the second shot (groundstroke) down the line or to your opponent's weaker side.
+P05-Expect a short, weak, return.  Hit a forcing second shot (groundstroke) or an outright winner.
+P06-Aim for depth and safety to begin a crosscourt rally.  
+P07-Aim for depth and safety to begin a crosscourt rally.  
+P08-Aim for depth and force the server to move quickly to cover down the line shot.  
+P09-Aim for depth and force the server to move quickly to cover down the line shot.
+P10-Aim for depth and safety by hitting to the largest area of the course.  Increase consistency by aiming high over the net.
+P11-Aim for depth and safety by hitting to the largest area of the course.  Increase consistency by aiming high over the net.
+P12-Aim deep to put the server in a defensive position.
+P13-Aim deep to put the server in a defensive position.
+P14-Hit an aggressive drive to attack weakness and elicit a weak reply.
+P15-Hit an aggressive drive to attack weakness and elicit a weak reply.
+P16-Hit an approach shot down the line and follow the ball to the net.  Volley the next shot to the open court.
+P17-To force the server to make a difficult first volley from ball below the level of the net.  Go for a passing shot on the next ball.
+P18-If the server closes fast, hit down the line to catch to make the opponent play a difficult volley.
+P19-Keep the ball deep until you get a short ball, then attack the ball above the net by driving it down the line.
+P20-If the ball lands in the outside third of the court and opens up an angle, drive the ball crosscourt and off the court.
+P21-From a short, wide ball, hit a severely angled crosscourt with heavy topspin that draws opponent off the court and direct next ball to the open court.
+P22-Step around a ball down the middle and drive an inside_out forehand through the court.  Expect a weak return shot and attack.
+P23-If your opponent hits down the line from his forehand corner, step around the shot and drive an inside_out forehand to pull him off the court.
+P24-Hit a looping drive to your opponent's backhand and look for a short ball to take out of the air or hit a winner after the bounce.
+P25-Keep your opponent deep until you get a short ball that you can attack.
+P26-Reduce your opponent's angles and avoid errors by hitting high and deep down the middle of the court.
+P27-Follow your shot to the net and volley the next ball to the open court.
+P28-Use this pattern as a variation of pattern 27 to prevent your opponent from anticipating your shot down the line.
+P29-Use a safe, depth sliced approach shot, then follow the ball to the net and volley the next shot to the open court.
+P30-Use the drop shot as a variation of pattern 29 to keep your opponent off balance.
+P31-Approach down the middle to reduce the angle of possible returns.
+P32-If you have a strong forehand, run around your backhand to use the inside_out forehand for the approach shot.
+P33-Loop a heavy topspin shot deep to your opponent's weaker side, which is often the backhand.
+P34-When your opponent is pulled wide and tries to recover position by looping a shot or sliced back, move in to hit an approach volley out of the air.
+P35-After hitting the first volley to a weakness, move in and volley the next shot to the open court.
+P36-Volley down the line to keep the ball in front of you and angle the next shot to the open court.
+P37-After your first volley, close in and volley the next shot short crosscourt on the opposite side for a winner.
+P38-Pull the receiver wide with your serve and then hit your first volley to the open court on the opposite side.
+P39-Pull the receiver to the middle with your serve and then volley behind her or to the weaker side
+P40-Angle your overhead smash away or bounce it over the fence.
+P41-Direct your overhead smash crosscourt and toward the safe middle court.  Close in to the net in case your opponent returns your shot. 
+P42-If the lob is very high or complicated, let the ball bounce and aim for the largest portion of the court.  Close in to the net in case of a return shot.
+P43-Although this requires changing the direction of the ball, your opponent will need to cover a lot of ground to cut off the shot.
+P44-Drive a low topspin passing shot back crosscourt.  Hopefully you will be hitting the ball behind your opponent.
+P45-Drive a low topspin passing shot ccrosscourt by taking the ball early and on the rise.
+P46-Hit a low and hard drive down the line first to elicit a weak volley, and then hit the second passing shot crosscourt.
+P47-Hit a forceful passing shot right at the net player first to reduce the angle for a winning volley.  Then look to hit a clear passing shot to either side.
+P48-First, hit a heavy topspin inside_out forehand so the ball dips below the net.  Expect a volley down the line and hit a passing shot sharply crosscourt.
+P49-If your opponent's shot lacks depth and pace, move around the ball to hit a power shot crosscourt or down the line.
+P50-Get to the ball quickly and hit a safe crosscourt pass to get your opponent in trouble.  Expect a volley up the line and then pass on the next shot.
+P51-Hit first passing shot down the line and expect opponent to volley crosscourt to the open court.  Hit next passing shot down the line on other side of the court.
+P52-Get to the ball quickly and hit a safe crosscourt pass to get your opponent in trouble.  Expect a volley up the line and then pass on the second shot.
+P53-Hit first passing shot down the line and expect opponent to volley crosscourt to the open court.  Hit next passing shot down the line on other side of the court.
+P54-If the sliced approach is near your backhand sideline, hit a soft, low chip crosscourt on the first shot.  Expect a weak volley and pass on the next shot.
+P55-After an aggressive drive at your opponent's right hip, expect a reflex volley, which you can then put away.
+P56-Aften an approach, hit a passing shot low and down the line.  If opponent volleys to open court, hit an offensive lob with heavy topspin over his backhand side.
+P57-Aften an approach, hit a passing shot low and down the line.  If opponent volleys to open court and closes in, hit an offensive lob with heavy topspin crosscourt.
+P58-If your opponent's approach pushes you very deep or wide, hit a save defensive lob to the largest court area to give yourself time to recover.
+ 

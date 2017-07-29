@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grand Slam Tennis</string>
+    <string name="app_desc">What IF you know ahead where and how to hit your next tennis shot?  This application illustrates USTAs\' winning sequence for serve, return, baseline, midcourt, net play and defense.</string>
+   	<string name="patterns">Select tennis patterns</string>
+   	<string name="pattern_name">Tennis Pattern</string>
+   	<string name="play_name">Tennis Play</string>
+   	<string name="play_desc">Tennis Play Description</string>
+   	<string name="instruction">App\'s Instruction</string>
+   	<string name="instruction_msg">Select a tennis pattern to view the winning tactics and strategies.</string>
+   	<string name="credits">Credits</string>
+   	<string name="credits_msg">"Book by Tennis Tactis - Winning Patterns of Play (USTA)</string>
+   	<string name="about">About</string>
+   	<string name="about_msg">"Grand Slam Tennis - Help player improve tennis skills through learning winning tactics and strategies."</string> 
+   	<string name="previous">Previous</string>
+   	<string name="next">Next</string>
+   	<string name="ok">OK</string>
+   	<string name="start">Start</string>
+   	<string name="developer">Developer</string>
+   	<string name="app_developer">Stanley Lam</string>
+   	<string name="app_company">GST - Grand Slam Tools</string>
+   	<string name="app_email">stanleylam2@gmail.com</string>
+   	<string-array name="patternsList">
+      	<item>Serve</item>
+      	<item>Return</item>
+      	<item>Baseline</item>
+      	<item>Midcourt</item>
+      	<item>NetPlay</item>
+      	<item>Defense</item>
+   	</string-array>
+   	
+   	<!-- Tennis shot pattern (1-58) description -->
+   	<string-array name="playDescriptionList">
+      	<item>Serve Wide to Open the Court</item>
+      	<item>Serve Wide to Open the Court</item>
+      	<item>Serve to the T to Reduce the Angles</item>
+      	<item>Serve to the T to Reduce the Angles</item>
+      	<item>Serve at the Body to Jam the Receiver</item>
+      	<item>Return Deep Crosscourt</item>
+      	<item>Return Deep Crosscourt</item>
+      	<item>Return Deep Down the Line</item>
+		<item>Return Deep Down the Line</item>
+      	<item>Return Deep Down the Middle</item>
+      	<item>Return Deep Down the Middle</item>
+      	<item>Return Deep Down the Line</item>
+      	<item>Return Deep Down the Line</item>
+      	<item>Hit a Forcing Shot Down the Line</item>
+      	<item>Hit a Forcing Shot Crosscourt</item>
+      	<item>Chip Down the Line and Come to the Net</item>
+		<item>Return Low at the Server\'s Feet</item>
+      	<item>Return Down the Line</item>
+      	<item>Attack a Short Ball Down the Line</item>
+      	<item>Attack a Short Ball Crosscourt</item>
+      	<item>Hit a Severe Angle</item>
+      	<item>Drive Inside-Out Through the Court</item>
+      	<item>Drive Inside-Out Off the Court</item>
+      	<item>Hit Looping Drives to Opponent\'s Backhand</item>
+		<item>Attack a Short Ball</item>
+      	<item>Hit High and Deep Down the Middle</item>
+      	<item>Drive Hard and Flat Down the Line</item>
+      	<item>Drive Crosscourt for a Winner</item>
+      	<item>Slice Down the Line</item>
+      	<item>Drop Shot Down the Line</item>
+      	<item>Approach Down the Middle</item>
+      	<item>Use an Inside-Out Forehand Approach</item>
+		<item>Use a Looping Topspin Approach</item>
+      	<item>Move In and Hit an Approach Volley</item>
+      	<item>Volley to Opponent\'s Weakness</item>
+      	<item>Volley Deep Down the Line</item>
+      	<item>Volley Deep Crosscourt</item>
+      	<item>Hit First Volley to Open Court</item>
+      	<item>Volley Behind Opponent or to the Weaker Side</item>
+      	<item>Angle Your Overhead Away</item>
+		<item>Aim Your Overhead Crosscourt</item>
+      	<item>Let Ball Bounce and Aim Crosscourt</item>
+      	<item>Pass Down the Line</item>
+      	<item>Pass Crosscourt</item>
+      	<item>Pass Crosscourt</item>
+      	<item>Use a Two-Shot Pass</item>
+      	<item>Use a Two-Shot Pass</item>
+      	<item>Use a Two-Shot Pass Inside Out</item>
+		<item>Overpower Your Opponent</item>
+      	<item>Hit First Crosscourt shot, Then Down the Line</item>
+      	<item>Hit First Down the Line, Then Down the Opposite Line</item>
+      	<item>Use Two Shots to Pass</item>
+      	<item>Hit First Down the Line, Then Down the Opposide Line</item>
+      	<item>Use a Two-Shot Pass</item>
+      	<item>Drive at Opponent\'s Right Hip</item>
+      	<item>Drive and Then Lob</item>
+		<item>Drive and Then Lob Crosscourt</item>
+		<item>Hit a High Defensive Lob</item>
+   	</string-array>
+</resources>
